@@ -2,9 +2,13 @@
 
 Pokemon App with Flutter
 
+## :camera: Output
+
+<img src="screenshots/1.png" width="400"> <img src="screenshots/2.png" width="400">
+
 ## :hammer: Modification
 
-- Add prevent null data on detail page
+- Add prevent null data on detail **page**
 - Add library to pubspec.yaml
 
   ```text
