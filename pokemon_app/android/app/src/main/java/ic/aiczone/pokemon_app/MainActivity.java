@@ -1,4 +1,4 @@
-package com.example.pokemon_apps;
+package ic.aiczone.pokemon_app;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
