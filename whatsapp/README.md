@@ -16,7 +16,7 @@ WhatsApp Clone with Flutter
 - Android SDK
 - Visual Studio Code
 
-## Resource
+## :herb: Resource
 
 - [Pixabay](https://pixabay.com)
 
