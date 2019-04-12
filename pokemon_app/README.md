@@ -8,7 +8,7 @@ Pokemon App with Flutter
 
 ## :hammer: Modification
 
-- Add prevent null data on detail **page**
+- Add prevent null data on detail page
 - Add library to pubspec.yaml
 
   ```text
@@ -20,6 +20,10 @@ Pokemon App with Flutter
 - Flutter SDK
 - Android SDK
 - Visual Studio Code
+
+## Resource
+
+- [PokemonGo Pokedex](https://github.com/Biuni/PokemonGO-Pokedex/blob/master/pokedex.json)
 
 ## :sparkles: Reference
 
