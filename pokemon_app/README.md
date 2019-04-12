@@ -21,7 +21,7 @@ Pokemon App with Flutter
 - Android SDK
 - Visual Studio Code
 
-## Resource
+## :herb: Resource
 
 - [PokemonGo Pokedex](https://github.com/Biuni/PokemonGO-Pokedex/blob/master/pokedex.json)
 
