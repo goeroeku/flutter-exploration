@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:instagram/pages/home/home_body.dart';
 
 void main() => runApp(MaterialApp(
       debugShowCheckedModeBanner: false,
@@ -44,19 +45,19 @@ class HomePage extends StatelessWidget {
           ),
           IconButton(
             icon: Icon(Icons.search),
-            onPressed: () {},
+            onPressed: null,
           ),
           IconButton(
             icon: Icon(Icons.add_box),
-            onPressed: () {},
+            onPressed: null,
           ),
           IconButton(
             icon: Icon(Icons.favorite),
-            onPressed: () {},
+            onPressed: null,
           ),
           IconButton(
             icon: Icon(Icons.account_box),
-            onPressed: () {},
+            onPressed: null,
           )
         ],
       ),
@@ -67,7 +68,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: topBar,
-      body: Container(),
+      body: HomeBody(),
       bottomNavigationBar: bottomBar,
     );
   }
